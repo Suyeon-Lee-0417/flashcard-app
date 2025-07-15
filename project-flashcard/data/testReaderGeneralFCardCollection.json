@@ -1,0 +1,16 @@
+{
+    "name": "Sydney's flashcard list",
+    "flashcards": [{
+            "description": "babo",
+            "term": "jiwon",
+            "isLearned?": false
+
+        },
+        {
+            "description": "cute",
+            "term": "suyeon",
+            "isLearned?": false
+
+        }
+    ]
+}

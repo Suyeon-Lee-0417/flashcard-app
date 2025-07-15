@@ -1,0 +1,25 @@
+{
+    "name": "Sydney's Flashcard list",
+    "flashcards": [
+        {
+            "description": "11",
+            "term": "1",
+            "isLearned?": true
+        },
+        {
+            "description": "2222",
+            "term": "22",
+            "isLearned?": false
+        },
+        {
+            "description": "11",
+            "term": "1",
+            "isLearned?": false
+        },
+        {
+            "description": "22",
+            "term": "2",
+            "isLearned?": false
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "flashcards": [{
+            "term": "jiwon",
+            "description": "babo",
+            "isLearned": false
+        },
+        {
+            "term": "suyeon",
+            "description": "cute",
+            "isLearned": false
+        },
+        {
+            "term": "ubc",
+            "description": "university",
+            "isLearned": false
+        }
+    ],
+    "name": "Sydney 's flashcard list"
+
+}
